@@ -972,7 +972,7 @@ fieldset[disabled] .btn-theme {
     [Full Width]
 ------------------------------------------------------------------*/
 .full-width {
-  width: 100%;
+  width: 50%;
   height: auto;
 }
 
