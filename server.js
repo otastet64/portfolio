@@ -10,7 +10,7 @@ app.get('/', function (req, res) {
     res.render('index');
 });
 
-//Afficher la page english
+//Afficher la page English version
 app.get('/english', function (req, res) {
     res.render('english');
 });
